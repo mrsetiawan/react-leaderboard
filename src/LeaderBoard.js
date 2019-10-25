@@ -26,7 +26,6 @@ class LeaderBoard extends Component {
   }
 
   render() {
-    //inline style
     const style = {
       card : {
         padding: '15px'
